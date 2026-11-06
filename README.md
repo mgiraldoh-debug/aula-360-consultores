@@ -71,3 +71,15 @@ Este repositorio documenta el proyecto y sus avances. Las características futur
 ## Contacto
 
 Para consultas sobre el proyecto, utiliza los medios de contacto publicados en el sitio web institucional.
+
+
+## Próximas mejoras
+
+Estas son algunas mejoras que se proponen para continuar desarrollando Aula 360 Consultores:
+
+- Organizar los recursos educativos por categorías para facilitar su búsqueda.
+- Ampliar los materiales de apoyo para docentes de distintas áreas.
+- Desarrollar espacios de capacitación y talleres virtuales.
+- Incorporar nuevas herramientas de seguimiento al aprendizaje.
+
+**Estado:** Estas mejoras están propuestas y todavía no se encuentran implementadas.
